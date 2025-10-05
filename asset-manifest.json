@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Zabi-295/Todo-list.git/static/css/main.ba2901f6.css",
+    "main.js": "/Zabi-295/Todo-list.git/static/js/main.ae357e02.js",
+    "static/js/453.f5f1588e.chunk.js": "/Zabi-295/Todo-list.git/static/js/453.f5f1588e.chunk.js",
+    "index.html": "/Zabi-295/Todo-list.git/index.html",
+    "main.ba2901f6.css.map": "/Zabi-295/Todo-list.git/static/css/main.ba2901f6.css.map",
+    "main.ae357e02.js.map": "/Zabi-295/Todo-list.git/static/js/main.ae357e02.js.map",
+    "453.f5f1588e.chunk.js.map": "/Zabi-295/Todo-list.git/static/js/453.f5f1588e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba2901f6.css",
+    "static/js/main.ae357e02.js"
+  ]
+}
